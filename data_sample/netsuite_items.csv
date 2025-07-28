@@ -1,0 +1,201 @@
+ItemId,Name,Category,UnitCost,ListPrice
+ITEM3000,Decaf Coffee There,Decaf,13.27,32.12
+ITEM3001,Blend Coffee Staff,Single Origin,5.72,10.8
+ITEM3002,Specialty Coffee Fly,Single Origin,15.03,41.65
+ITEM3003,Single Origin Coffee She,Blend,10.66,10.97
+ITEM3004,Blend Coffee Knowledge,Single Origin,10.45,14.95
+ITEM3005,Organic Coffee Mouth,Organic,7.62,39.62
+ITEM3006,Decaf Coffee Bring,Single Origin,6.53,30.18
+ITEM3007,Organic Coffee Sign,Single Origin,5.29,43.21
+ITEM3008,Specialty Coffee As,Blend,6.91,33.53
+ITEM3009,Organic Coffee Thought,Blend,21.63,44.37
+ITEM3010,Decaf Coffee Hotel,Organic,15.25,10.94
+ITEM3011,Decaf Coffee Event,Organic,9.05,20.57
+ITEM3012,Specialty Coffee Product,Organic,12.53,27.18
+ITEM3013,Blend Coffee Movement,Organic,16.22,29.33
+ITEM3014,Specialty Coffee Health,Specialty,9.89,10.69
+ITEM3015,Organic Coffee Candidate,Organic,24.03,40.51
+ITEM3016,Single Origin Coffee Anyone,Organic,9.48,49.01
+ITEM3017,Organic Coffee Something,Blend,13.94,29.07
+ITEM3018,Single Origin Coffee Rather,Decaf,11.65,42.39
+ITEM3019,Single Origin Coffee Yeah,Single Origin,16.22,18.31
+ITEM3020,Organic Coffee Capital,Specialty,10.0,15.65
+ITEM3021,Specialty Coffee List,Organic,15.47,43.59
+ITEM3022,Blend Coffee Fire,Single Origin,20.35,20.08
+ITEM3023,Decaf Coffee Page,Decaf,21.69,11.46
+ITEM3024,Specialty Coffee Since,Specialty,13.13,10.22
+ITEM3025,Blend Coffee Accept,Specialty,20.89,31.82
+ITEM3026,Decaf Coffee Long,Blend,11.44,38.35
+ITEM3027,Specialty Coffee Group,Specialty,22.17,49.71
+ITEM3028,Single Origin Coffee Eat,Single Origin,13.51,13.1
+ITEM3029,Blend Coffee Support,Single Origin,8.24,39.93
+ITEM3030,Blend Coffee Skill,Blend,13.75,48.88
+ITEM3031,Single Origin Coffee Party,Organic,14.9,35.05
+ITEM3032,Specialty Coffee Others,Organic,7.8,44.97
+ITEM3033,Organic Coffee Send,Organic,5.19,14.7
+ITEM3034,Decaf Coffee Wall,Decaf,15.45,34.6
+ITEM3035,Decaf Coffee Writer,Specialty,18.0,15.66
+ITEM3036,Specialty Coffee Product,Blend,21.06,48.08
+ITEM3037,Decaf Coffee Reduce,Specialty,17.09,28.88
+ITEM3038,Blend Coffee None,Decaf,23.54,38.81
+ITEM3039,Blend Coffee Three,Blend,15.49,43.18
+ITEM3040,Single Origin Coffee Physical,Decaf,13.33,16.01
+ITEM3041,Single Origin Coffee East,Single Origin,11.24,17.51
+ITEM3042,Single Origin Coffee Hard,Specialty,14.17,13.79
+ITEM3043,Specialty Coffee Firm,Organic,16.89,12.67
+ITEM3044,Specialty Coffee Feel,Blend,11.9,10.57
+ITEM3045,Blend Coffee Reflect,Decaf,10.68,46.46
+ITEM3046,Organic Coffee Still,Specialty,19.59,24.69
+ITEM3047,Organic Coffee Teacher,Decaf,16.22,35.66
+ITEM3048,Blend Coffee Senior,Single Origin,16.85,14.12
+ITEM3049,Blend Coffee Page,Decaf,8.57,32.55
+ITEM3050,Blend Coffee Remember,Specialty,16.75,40.64
+ITEM3051,Decaf Coffee Challenge,Specialty,20.44,33.69
+ITEM3052,Decaf Coffee Send,Specialty,18.37,28.94
+ITEM3053,Blend Coffee Huge,Single Origin,20.67,49.56
+ITEM3054,Single Origin Coffee Nature,Specialty,7.93,16.59
+ITEM3055,Single Origin Coffee Sing,Decaf,6.56,48.79
+ITEM3056,Blend Coffee End,Specialty,21.14,27.02
+ITEM3057,Organic Coffee Book,Decaf,11.05,40.4
+ITEM3058,Blend Coffee Generation,Specialty,12.86,40.96
+ITEM3059,Organic Coffee Name,Decaf,11.24,30.88
+ITEM3060,Specialty Coffee Pass,Single Origin,22.67,43.69
+ITEM3061,Blend Coffee Data,Decaf,19.23,43.6
+ITEM3062,Specialty Coffee Test,Organic,14.8,41.56
+ITEM3063,Single Origin Coffee Start,Specialty,23.0,36.08
+ITEM3064,Blend Coffee Herself,Single Origin,22.32,44.21
+ITEM3065,Decaf Coffee Look,Organic,9.28,32.39
+ITEM3066,Blend Coffee Billion,Organic,12.48,47.33
+ITEM3067,Single Origin Coffee Choice,Blend,13.84,31.04
+ITEM3068,Single Origin Coffee Seek,Specialty,11.21,13.76
+ITEM3069,Decaf Coffee Large,Decaf,15.06,10.52
+ITEM3070,Decaf Coffee Them,Single Origin,17.94,35.67
+ITEM3071,Organic Coffee Its,Single Origin,24.91,38.17
+ITEM3072,Decaf Coffee Beat,Single Origin,24.42,42.93
+ITEM3073,Organic Coffee Best,Specialty,17.64,29.61
+ITEM3074,Organic Coffee Assume,Specialty,21.15,11.53
+ITEM3075,Single Origin Coffee Large,Specialty,22.89,16.13
+ITEM3076,Blend Coffee View,Blend,6.66,43.36
+ITEM3077,Single Origin Coffee Case,Single Origin,13.87,38.42
+ITEM3078,Decaf Coffee Maybe,Single Origin,22.16,21.1
+ITEM3079,Blend Coffee Difficult,Specialty,19.75,23.31
+ITEM3080,Decaf Coffee Like,Blend,23.11,33.47
+ITEM3081,Decaf Coffee Bank,Specialty,5.28,36.58
+ITEM3082,Organic Coffee Hope,Single Origin,6.3,43.0
+ITEM3083,Specialty Coffee Research,Blend,19.58,13.36
+ITEM3084,Organic Coffee Never,Single Origin,10.51,17.95
+ITEM3085,Specialty Coffee Interesting,Organic,8.46,39.87
+ITEM3086,Single Origin Coffee Per,Decaf,10.48,24.03
+ITEM3087,Decaf Coffee Operation,Organic,16.36,37.85
+ITEM3088,Specialty Coffee Natural,Organic,6.76,46.72
+ITEM3089,Blend Coffee Start,Single Origin,8.71,33.65
+ITEM3090,Single Origin Coffee Indicate,Blend,20.77,18.7
+ITEM3091,Decaf Coffee Try,Organic,6.63,38.97
+ITEM3092,Blend Coffee Everything,Decaf,21.75,35.69
+ITEM3093,Blend Coffee Pattern,Blend,11.21,25.17
+ITEM3094,Decaf Coffee Moment,Blend,10.58,32.6
+ITEM3095,Organic Coffee Provide,Blend,21.71,20.91
+ITEM3096,Blend Coffee Land,Blend,24.59,20.37
+ITEM3097,Organic Coffee Less,Decaf,6.85,24.21
+ITEM3098,Decaf Coffee Risk,Decaf,20.45,30.92
+ITEM3099,Blend Coffee Word,Single Origin,23.99,33.41
+ITEM3100,Blend Coffee Yourself,Specialty,16.37,49.75
+ITEM3101,Organic Coffee Might,Decaf,17.92,37.28
+ITEM3102,Decaf Coffee Sign,Blend,11.84,48.74
+ITEM3103,Specialty Coffee Keep,Decaf,6.82,40.94
+ITEM3104,Decaf Coffee Than,Blend,14.35,11.26
+ITEM3105,Single Origin Coffee Commercial,Specialty,18.17,17.46
+ITEM3106,Blend Coffee Charge,Organic,16.74,24.89
+ITEM3107,Organic Coffee Mouth,Specialty,23.03,22.89
+ITEM3108,Single Origin Coffee Care,Decaf,22.39,10.32
+ITEM3109,Organic Coffee Memory,Organic,11.69,35.92
+ITEM3110,Single Origin Coffee Seek,Blend,23.26,22.25
+ITEM3111,Organic Coffee Lot,Specialty,8.72,10.87
+ITEM3112,Specialty Coffee Carry,Organic,16.87,37.78
+ITEM3113,Organic Coffee Sea,Organic,21.68,20.1
+ITEM3114,Decaf Coffee Must,Specialty,11.76,37.14
+ITEM3115,Decaf Coffee Travel,Single Origin,24.42,45.1
+ITEM3116,Specialty Coffee Newspaper,Single Origin,13.42,40.96
+ITEM3117,Specialty Coffee Buy,Organic,16.86,16.56
+ITEM3118,Blend Coffee Run,Decaf,22.73,48.61
+ITEM3119,Specialty Coffee Difference,Blend,24.03,32.72
+ITEM3120,Blend Coffee Lose,Blend,18.27,41.54
+ITEM3121,Single Origin Coffee Material,Single Origin,11.19,40.63
+ITEM3122,Decaf Coffee Alone,Organic,12.92,28.42
+ITEM3123,Blend Coffee Skin,Blend,22.66,22.05
+ITEM3124,Single Origin Coffee Close,Blend,9.72,18.13
+ITEM3125,Single Origin Coffee Yet,Blend,8.08,32.21
+ITEM3126,Decaf Coffee Operation,Single Origin,14.55,23.79
+ITEM3127,Organic Coffee Hope,Specialty,18.74,37.95
+ITEM3128,Organic Coffee Will,Organic,21.63,38.25
+ITEM3129,Single Origin Coffee By,Organic,7.57,40.52
+ITEM3130,Blend Coffee Play,Organic,20.47,45.92
+ITEM3131,Organic Coffee Together,Specialty,12.88,12.87
+ITEM3132,Organic Coffee Issue,Specialty,5.54,45.42
+ITEM3133,Blend Coffee Break,Blend,12.38,23.59
+ITEM3134,Single Origin Coffee Camera,Specialty,16.98,25.93
+ITEM3135,Single Origin Coffee Hope,Blend,7.76,17.52
+ITEM3136,Blend Coffee Owner,Decaf,13.71,23.58
+ITEM3137,Blend Coffee Figure,Organic,8.01,22.44
+ITEM3138,Organic Coffee Amount,Single Origin,10.22,48.2
+ITEM3139,Blend Coffee Necessary,Blend,12.96,30.69
+ITEM3140,Single Origin Coffee Claim,Organic,21.12,23.85
+ITEM3141,Single Origin Coffee Buy,Organic,21.07,10.49
+ITEM3142,Decaf Coffee Hot,Blend,16.49,25.36
+ITEM3143,Organic Coffee Focus,Single Origin,14.72,48.4
+ITEM3144,Organic Coffee House,Organic,20.43,22.12
+ITEM3145,Decaf Coffee Floor,Single Origin,17.07,42.1
+ITEM3146,Organic Coffee Financial,Specialty,12.46,28.94
+ITEM3147,Decaf Coffee Mention,Specialty,24.44,14.47
+ITEM3148,Blend Coffee Ahead,Organic,15.63,25.34
+ITEM3149,Single Origin Coffee Strong,Blend,5.14,47.93
+ITEM3150,Specialty Coffee Character,Decaf,8.95,42.51
+ITEM3151,Organic Coffee Change,Organic,5.97,21.27
+ITEM3152,Single Origin Coffee Step,Organic,14.21,12.0
+ITEM3153,Specialty Coffee Perform,Decaf,10.05,23.5
+ITEM3154,Decaf Coffee Know,Single Origin,15.85,17.15
+ITEM3155,Decaf Coffee Anything,Organic,5.35,22.99
+ITEM3156,Single Origin Coffee Write,Specialty,7.23,39.28
+ITEM3157,Specialty Coffee Wall,Organic,9.97,13.36
+ITEM3158,Single Origin Coffee Focus,Blend,19.54,35.32
+ITEM3159,Organic Coffee Visit,Decaf,11.91,28.32
+ITEM3160,Specialty Coffee Federal,Blend,23.38,46.14
+ITEM3161,Specialty Coffee Dinner,Specialty,14.17,13.06
+ITEM3162,Decaf Coffee Cover,Single Origin,7.94,49.07
+ITEM3163,Single Origin Coffee Tell,Organic,15.25,39.02
+ITEM3164,Decaf Coffee Sister,Decaf,13.45,10.9
+ITEM3165,Decaf Coffee Middle,Single Origin,21.74,27.34
+ITEM3166,Single Origin Coffee Able,Blend,16.42,49.8
+ITEM3167,Specialty Coffee Can,Specialty,15.78,41.75
+ITEM3168,Single Origin Coffee Officer,Decaf,16.47,18.61
+ITEM3169,Organic Coffee Happy,Decaf,19.94,41.13
+ITEM3170,Decaf Coffee Author,Specialty,18.43,34.18
+ITEM3171,Blend Coffee Truth,Decaf,10.45,26.29
+ITEM3172,Single Origin Coffee Another,Organic,18.14,20.99
+ITEM3173,Organic Coffee Key,Specialty,20.81,35.39
+ITEM3174,Single Origin Coffee Medical,Blend,9.5,38.36
+ITEM3175,Blend Coffee Page,Single Origin,17.23,39.13
+ITEM3176,Specialty Coffee Force,Organic,16.76,35.39
+ITEM3177,Decaf Coffee Others,Specialty,12.78,47.19
+ITEM3178,Single Origin Coffee Local,Decaf,11.81,23.85
+ITEM3179,Organic Coffee We,Blend,14.24,39.7
+ITEM3180,Blend Coffee Green,Specialty,18.95,36.92
+ITEM3181,Decaf Coffee Station,Organic,5.65,44.09
+ITEM3182,Single Origin Coffee Huge,Organic,16.23,23.81
+ITEM3183,Blend Coffee May,Specialty,12.38,21.67
+ITEM3184,Decaf Coffee They,Organic,18.49,11.18
+ITEM3185,Specialty Coffee Service,Specialty,8.33,24.07
+ITEM3186,Organic Coffee These,Organic,24.92,10.94
+ITEM3187,Decaf Coffee Police,Specialty,19.88,49.59
+ITEM3188,Organic Coffee Cause,Specialty,7.63,34.28
+ITEM3189,Single Origin Coffee Sound,Single Origin,12.91,18.45
+ITEM3190,Single Origin Coffee Certainly,Specialty,10.79,44.6
+ITEM3191,Organic Coffee Mother,Specialty,13.17,40.05
+ITEM3192,Organic Coffee Provide,Specialty,10.58,40.82
+ITEM3193,Single Origin Coffee Magazine,Decaf,15.05,31.3
+ITEM3194,Blend Coffee Sort,Organic,14.9,28.56
+ITEM3195,Organic Coffee Listen,Blend,23.48,17.11
+ITEM3196,Decaf Coffee Region,Single Origin,15.65,23.36
+ITEM3197,Organic Coffee List,Blend,18.67,13.93
+ITEM3198,Specialty Coffee Church,Organic,24.48,26.41
+ITEM3199,Single Origin Coffee Trial,Specialty,9.48,34.39

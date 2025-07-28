@@ -1,0 +1,501 @@
+Id,Name,BillingCountry,Industry,AnnualRevenue,CreatedDate
+ACC1000,"Rodriguez, Figueroa and Sanchez",Australia,Food & Beverage,2225527.01,2021-04-07
+ACC1001,Rhodes PLC,Japan,Wholesale,11937326.17,2021-01-01
+ACC1002,Johnson-Davis,Australia,Food & Beverage,34158274.88,2021-09-25
+ACC1003,"Johnson, Gonzalez and Santos",Brazil,Food & Beverage,29934133.11,2023-04-18
+ACC1004,Cole LLC,USA,Food & Beverage,5591066.75,2024-08-13
+ACC1005,Blake and Sons,Canada,Manufacturing,30498917.72,2024-01-23
+ACC1006,Ramirez-Lewis,Brazil,Wholesale,36084961.03,2024-05-21
+ACC1007,Davis Inc,Australia,Manufacturing,21556471.23,2022-05-13
+ACC1008,Munoz-Roman,Germany,Manufacturing,14631344.7,2024-03-21
+ACC1009,"Martinez, Nielsen and Miller",USA,Wholesale,35208830.35,2022-01-13
+ACC1010,"Montgomery, Hensley and Ray",Japan,Retail,8618495.49,2024-02-04
+ACC1011,Stanley LLC,Japan,Food & Beverage,5544546.33,2025-06-30
+ACC1012,Delacruz Group,USA,Retail,42527223.95,2021-12-16
+ACC1013,"Flowers, Martin and Kelly",Brazil,Retail,40549285.39,2023-12-03
+ACC1014,"Zuniga, Wong and Lynch",Australia,Distribution,27275176.48,2021-06-04
+ACC1015,"Sanchez, Ford and Nelson",Germany,Food & Beverage,28049990.93,2025-03-13
+ACC1016,"Hawkins, Cohen and Cameron",Australia,Manufacturing,44387135.65,2024-06-13
+ACC1017,Underwood LLC,Japan,Manufacturing,10422140.92,2022-07-29
+ACC1018,Clark PLC,USA,Food & Beverage,33401902.61,2024-12-14
+ACC1019,Lewis-Porter,Japan,Food & Beverage,42910568.33,2024-12-29
+ACC1020,"Ellis, Baker and Wright",USA,Distribution,14620706.55,2023-05-18
+ACC1021,Burgess-Patterson,Australia,Retail,8970050.76,2023-06-28
+ACC1022,Robinson-Bright,Japan,Wholesale,33838583.54,2023-02-12
+ACC1023,Campos Inc,Australia,Food & Beverage,30847419.28,2021-05-02
+ACC1024,Conner Group,Canada,Manufacturing,36727213.1,2023-07-21
+ACC1025,James-Ferrell,Canada,Distribution,19593316.65,2023-03-20
+ACC1026,"Valencia, Smith and Le",Australia,Manufacturing,11761143.52,2023-12-24
+ACC1027,"Potter, Mack and Peterson",Japan,Food & Beverage,12223355.53,2022-01-14
+ACC1028,Chavez Ltd,USA,Retail,20657074.56,2024-12-13
+ACC1029,Stanton-Gill,USA,Wholesale,45743670.09,2023-02-09
+ACC1030,Harrell LLC,Brazil,Retail,11418700.66,2024-10-11
+ACC1031,"Lynch, Hernandez and Farmer",Germany,Distribution,44349474.54,2023-04-08
+ACC1032,"Sellers, George and Burns",Australia,Distribution,8000707.93,2021-02-16
+ACC1033,Koch-Decker,Canada,Wholesale,37504460.12,2022-02-08
+ACC1034,Allen PLC,Brazil,Retail,37603676.77,2025-04-22
+ACC1035,Dennis Inc,Germany,Manufacturing,20570624.75,2025-06-17
+ACC1036,"Cannon, Anderson and Alvarez",Canada,Wholesale,25966788.39,2023-04-27
+ACC1037,Rose-Obrien,USA,Food & Beverage,43194042.57,2025-05-23
+ACC1038,"Campos, Vaughn and Marquez",Canada,Wholesale,39811888.85,2022-07-25
+ACC1039,"Santos, Kim and Holmes",Germany,Manufacturing,4112857.6,2021-03-05
+ACC1040,Brown Inc,Germany,Manufacturing,49809947.63,2023-07-06
+ACC1041,Chapman Inc,Brazil,Retail,48582840.5,2020-12-03
+ACC1042,"Brown, Jones and Johnson",USA,Food & Beverage,34403808.08,2022-03-22
+ACC1043,"Young, Caldwell and Lewis",Brazil,Retail,38661337.9,2021-03-25
+ACC1044,"Johnston, Sanchez and Kennedy",Japan,Food & Beverage,15381506.3,2022-08-09
+ACC1045,Davis Group,Canada,Distribution,1159020.49,2022-05-05
+ACC1046,Owens-Daniel,Australia,Retail,48622516.84,2023-12-09
+ACC1047,"Garcia, Powell and Morgan",Canada,Manufacturing,45718764.13,2024-11-17
+ACC1048,Lee PLC,Australia,Retail,42241798.06,2022-10-24
+ACC1049,White-Ford,Brazil,Manufacturing,10746643.99,2024-12-10
+ACC1050,Ramos PLC,Japan,Wholesale,27429572.48,2021-01-21
+ACC1051,"Kidd, Huff and Novak",Brazil,Food & Beverage,30348284.64,2025-03-15
+ACC1052,Martin Group,Germany,Food & Beverage,6481518.54,2022-12-23
+ACC1053,Barrera-Martin,Japan,Retail,12733163.21,2020-07-30
+ACC1054,Baker-Bowers,Canada,Manufacturing,47400522.82,2022-11-05
+ACC1055,Horton-Cross,USA,Distribution,40985139.42,2024-06-27
+ACC1056,"Higgins, Moore and Phillips",Brazil,Wholesale,7291181.76,2025-05-31
+ACC1057,"Fitzgerald, Brown and Edwards",Germany,Manufacturing,9091220.99,2020-10-26
+ACC1058,Shaw-Farrell,Brazil,Manufacturing,21733759.07,2021-05-10
+ACC1059,"Miller, Lopez and Larson",Canada,Manufacturing,38007994.64,2023-12-12
+ACC1060,Powell PLC,Australia,Wholesale,35934499.67,2021-10-19
+ACC1061,"Williams, Miller and Sandoval",Germany,Retail,22466904.11,2023-05-25
+ACC1062,Donovan-Harris,Brazil,Distribution,6929205.6,2024-02-25
+ACC1063,Baker and Sons,Canada,Food & Beverage,17566192.55,2023-12-06
+ACC1064,Bryant-Hickman,Brazil,Manufacturing,12275621.9,2025-04-01
+ACC1065,Ellis PLC,Canada,Food & Beverage,4478661.21,2025-07-20
+ACC1066,Medina PLC,Australia,Food & Beverage,12218147.41,2021-11-23
+ACC1067,Ibarra-Suarez,USA,Retail,4472010.14,2022-06-02
+ACC1068,Kim PLC,Canada,Retail,33779911.14,2024-02-02
+ACC1069,"Riggs, Roman and Rice",Canada,Manufacturing,7483280.59,2023-11-29
+ACC1070,"Evans, Alvarado and Mcmillan",Brazil,Manufacturing,24160880.29,2021-03-29
+ACC1071,Preston Ltd,Germany,Distribution,10330085.8,2023-05-03
+ACC1072,Campbell-Clark,USA,Distribution,18360580.76,2022-04-14
+ACC1073,"Walters, Baker and Freeman",Germany,Distribution,43328000.67,2025-02-05
+ACC1074,Davis Group,USA,Food & Beverage,3970021.03,2024-09-19
+ACC1075,Smith and Sons,Australia,Retail,40229033.03,2023-10-04
+ACC1076,Martin-Ramos,USA,Wholesale,10387913.53,2024-02-06
+ACC1077,"Smith, Jones and Ware",Brazil,Distribution,7868932.56,2025-02-02
+ACC1078,"Johnson, Wood and Tran",Canada,Retail,23668775.35,2022-09-20
+ACC1079,Parker Inc,USA,Distribution,40593089.99,2025-01-24
+ACC1080,Fleming Ltd,Brazil,Food & Beverage,3478828.15,2021-01-30
+ACC1081,"Henson, Russell and Oliver",Brazil,Food & Beverage,48480816.61,2021-05-05
+ACC1082,Hancock and Sons,Canada,Wholesale,20914288.84,2024-12-23
+ACC1083,White LLC,Germany,Wholesale,43367869.31,2024-06-25
+ACC1084,Pham-Shields,USA,Wholesale,19569682.83,2024-08-16
+ACC1085,Moore-Haynes,Germany,Retail,46399385.6,2022-06-25
+ACC1086,Garrison and Sons,Germany,Retail,21727366.81,2021-07-26
+ACC1087,Bailey-Hoover,Australia,Manufacturing,33431694.29,2024-12-04
+ACC1088,Johnson and Sons,Germany,Wholesale,10304995.5,2022-07-24
+ACC1089,Lin-Rasmussen,Canada,Food & Beverage,29379834.25,2021-12-18
+ACC1090,"Hicks, Frazier and Anthony",Brazil,Food & Beverage,37650802.46,2022-03-24
+ACC1091,Wilson LLC,USA,Food & Beverage,29624702.13,2021-06-18
+ACC1092,Johnson-Carlson,Brazil,Manufacturing,8714203.67,2022-04-19
+ACC1093,Graham-Joyce,Brazil,Food & Beverage,42715784.72,2021-02-23
+ACC1094,"Lee, Williams and Graham",USA,Manufacturing,4330082.31,2023-03-03
+ACC1095,"Mcdaniel, Bentley and Mclaughlin",Canada,Distribution,6874444.08,2021-07-21
+ACC1096,Jones-Beck,Brazil,Wholesale,29367033.82,2022-03-22
+ACC1097,Alvarado-Martinez,USA,Manufacturing,5017186.87,2025-01-26
+ACC1098,"Parker, Ortiz and Powell",Australia,Manufacturing,28696119.27,2022-01-18
+ACC1099,Lee Ltd,Japan,Retail,11008700.77,2025-04-10
+ACC1100,"Adkins, Thompson and Carroll",Australia,Retail,12695611.68,2022-08-07
+ACC1101,Torres and Sons,Germany,Wholesale,33912820.93,2022-09-20
+ACC1102,"Lawson, Morris and Ramos",Japan,Distribution,16492682.62,2023-12-13
+ACC1103,"Kennedy, Santana and Flynn",USA,Food & Beverage,23455990.61,2021-06-02
+ACC1104,Campbell Ltd,Brazil,Food & Beverage,4589775.33,2023-09-26
+ACC1105,Davis-Crane,Canada,Manufacturing,13994820.32,2021-09-29
+ACC1106,Walker-Gonzalez,Japan,Food & Beverage,44084241.88,2020-09-09
+ACC1107,Riggs PLC,Japan,Retail,8729594.79,2024-10-26
+ACC1108,Gibson Ltd,Brazil,Retail,30972210.52,2023-06-13
+ACC1109,"Horton, Snyder and Sanchez",Australia,Manufacturing,1383332.25,2023-11-07
+ACC1110,Stafford Inc,Brazil,Retail,46656045.93,2024-06-18
+ACC1111,Thompson Ltd,USA,Wholesale,13958830.15,2023-02-28
+ACC1112,Grant Inc,USA,Manufacturing,8616947.58,2022-11-07
+ACC1113,Contreras-Travis,Japan,Manufacturing,11320853.09,2023-07-19
+ACC1114,Salazar-Ball,Japan,Wholesale,34687359.31,2023-02-04
+ACC1115,"Griffin, Moore and Hensley",Japan,Manufacturing,24938060.76,2022-10-27
+ACC1116,Larsen LLC,USA,Food & Beverage,32079937.92,2024-05-26
+ACC1117,"Washington, Allen and Gonzales",Japan,Food & Beverage,1173738.77,2024-02-20
+ACC1118,Nelson LLC,Canada,Retail,8917516.84,2025-01-13
+ACC1119,Taylor and Sons,Germany,Manufacturing,35577704.89,2022-06-26
+ACC1120,Mccarthy Inc,Brazil,Food & Beverage,6481820.15,2022-08-23
+ACC1121,Daniels-Perry,Australia,Wholesale,27733924.17,2021-08-08
+ACC1122,Price-Carrillo,Japan,Manufacturing,28073729.74,2025-04-20
+ACC1123,Gates PLC,Germany,Wholesale,3049614.05,2022-06-21
+ACC1124,Bender LLC,Japan,Food & Beverage,45047307.19,2024-05-03
+ACC1125,Medina-Navarro,Canada,Wholesale,33679737.12,2024-07-27
+ACC1126,Freeman LLC,Japan,Manufacturing,44322600.37,2022-10-01
+ACC1127,Price Ltd,Germany,Manufacturing,37724402.95,2023-12-19
+ACC1128,Ramsey-Pittman,Canada,Wholesale,48834095.61,2025-03-03
+ACC1129,"Ferguson, Meadows and Vargas",Canada,Distribution,2214531.73,2023-11-20
+ACC1130,Day and Sons,Australia,Retail,39336938.31,2024-11-26
+ACC1131,Williams Group,Germany,Wholesale,14073479.77,2022-03-17
+ACC1132,Murphy-Juarez,Australia,Food & Beverage,19744544.41,2022-06-19
+ACC1133,King-Miller,USA,Distribution,11899252.16,2020-08-31
+ACC1134,"Williams, Crane and Walker",Germany,Retail,15954352.5,2020-11-29
+ACC1135,"Williams, Johnson and Wright",Canada,Wholesale,2159557.3,2024-10-07
+ACC1136,"Hernandez, Martinez and Caldwell",Canada,Distribution,17084835.61,2023-05-23
+ACC1137,Marshall LLC,USA,Retail,18206160.33,2024-05-28
+ACC1138,Obrien Ltd,Brazil,Distribution,34296387.8,2024-02-29
+ACC1139,Oconnell Inc,Brazil,Retail,47022619.88,2023-06-19
+ACC1140,Johnston-Odonnell,USA,Retail,9749822.99,2022-06-12
+ACC1141,"Gonzalez, Vargas and Rivas",Japan,Food & Beverage,6311724.81,2021-10-13
+ACC1142,"Barton, Jefferson and Burke",Germany,Retail,36698707.97,2021-03-05
+ACC1143,"Patton, Reed and Patterson",Japan,Distribution,30704233.81,2022-06-04
+ACC1144,"Holland, Smith and Fisher",Brazil,Food & Beverage,19874576.23,2023-01-08
+ACC1145,Yu-Reid,Brazil,Wholesale,13481402.8,2024-09-18
+ACC1146,"Hernandez, Thompson and Boyd",Australia,Distribution,1082872.63,2023-10-28
+ACC1147,"Morton, Medina and Webb",Brazil,Wholesale,18846852.12,2022-09-30
+ACC1148,"Vargas, Morris and Sanchez",USA,Retail,31534615.09,2025-03-30
+ACC1149,Keith-Sanchez,Australia,Food & Beverage,36267958.89,2022-11-23
+ACC1150,"Barnett, Rogers and Snyder",Japan,Manufacturing,16154948.45,2022-03-12
+ACC1151,Lewis-Salinas,Germany,Retail,20717618.97,2022-04-09
+ACC1152,"Haynes, Hill and Smith",Japan,Manufacturing,7237102.15,2025-04-24
+ACC1153,Allen Group,Germany,Distribution,34188579.32,2023-01-05
+ACC1154,Vaughn Ltd,Canada,Manufacturing,28886157.49,2024-02-17
+ACC1155,Mcguire-Davis,Germany,Manufacturing,41852533.3,2021-09-04
+ACC1156,"Sanchez, Beck and Wood",Japan,Retail,11298951.56,2023-05-04
+ACC1157,Coleman-Reese,Brazil,Manufacturing,33080575.56,2022-03-23
+ACC1158,"Chavez, Parker and Hall",Germany,Distribution,22665830.17,2024-03-05
+ACC1159,Wilson-Herrera,Canada,Manufacturing,24186123.11,2024-05-19
+ACC1160,Lee Ltd,Australia,Wholesale,33283686.5,2022-12-28
+ACC1161,"Lawrence, Wolf and Carlson",Japan,Manufacturing,33528837.98,2025-06-22
+ACC1162,Phillips LLC,Brazil,Retail,5575972.8,2021-06-19
+ACC1163,Erickson and Sons,Canada,Retail,12007392.63,2021-12-10
+ACC1164,Tran Ltd,Canada,Wholesale,2196844.0,2025-04-16
+ACC1165,"Oneill, Henry and Salas",Canada,Distribution,30952424.68,2023-06-10
+ACC1166,Mendoza-Peterson,USA,Distribution,21307609.54,2025-05-25
+ACC1167,Everett-Woods,Australia,Manufacturing,10527326.6,2024-09-06
+ACC1168,Vasquez-Ray,Australia,Distribution,25224481.28,2024-01-02
+ACC1169,Hernandez PLC,Canada,Wholesale,33146842.54,2025-04-26
+ACC1170,Mcknight Inc,USA,Food & Beverage,39142599.93,2023-05-12
+ACC1171,Obrien-Gibbs,Canada,Wholesale,40401382.95,2021-09-12
+ACC1172,"James, Kerr and Evans",Australia,Manufacturing,23762944.34,2023-07-07
+ACC1173,Torres-Oliver,Brazil,Wholesale,45956030.71,2023-08-14
+ACC1174,"Garcia, Farmer and Garrett",USA,Distribution,7533616.17,2021-11-22
+ACC1175,Moore and Sons,Germany,Manufacturing,49406730.2,2023-05-01
+ACC1176,Smith Group,Brazil,Retail,47551940.81,2024-01-07
+ACC1177,Carter-Hall,Germany,Manufacturing,40935318.86,2024-02-08
+ACC1178,"Heath, Jones and Hall",Brazil,Distribution,41697889.32,2021-11-22
+ACC1179,"Lawrence, Lara and Gonzalez",Brazil,Distribution,44963197.06,2021-02-21
+ACC1180,Holland LLC,Australia,Distribution,23053418.11,2024-09-14
+ACC1181,Brown LLC,Canada,Retail,38524870.53,2023-07-19
+ACC1182,"Morse, Gonzales and Harrison",Brazil,Distribution,31710673.41,2022-02-02
+ACC1183,Bender-Mason,Japan,Distribution,4796684.34,2023-01-15
+ACC1184,George Group,Japan,Wholesale,14314040.25,2024-03-29
+ACC1185,"Wright, Davis and Hayden",Japan,Manufacturing,4948305.23,2024-10-01
+ACC1186,"Matthews, Smith and Hubbard",Canada,Wholesale,19768729.33,2024-09-04
+ACC1187,"Williams, Avila and Ruiz",Canada,Wholesale,4147213.68,2023-10-30
+ACC1188,White-Richards,Germany,Retail,27587945.88,2023-09-29
+ACC1189,Costa-Harrison,Germany,Food & Beverage,11134885.09,2022-08-12
+ACC1190,Santiago-Hodge,Germany,Distribution,45337085.44,2022-03-21
+ACC1191,"Simpson, Bates and Morales",Brazil,Food & Beverage,42979869.58,2024-05-16
+ACC1192,Gibson LLC,Brazil,Distribution,24372006.9,2021-10-31
+ACC1193,Cordova Group,Japan,Retail,37920281.13,2024-11-23
+ACC1194,Sandoval PLC,Germany,Manufacturing,37628267.78,2022-11-18
+ACC1195,Lopez LLC,Brazil,Manufacturing,44992756.02,2023-09-07
+ACC1196,Garrett-Wolf,Germany,Wholesale,14373830.28,2021-08-02
+ACC1197,"Anderson, Roberts and Gilmore",Germany,Food & Beverage,20054002.96,2022-12-29
+ACC1198,Dudley PLC,Australia,Distribution,36484887.5,2024-07-26
+ACC1199,"Moore, Pierce and Tran",Germany,Wholesale,49055376.9,2021-01-13
+ACC1200,Murray Inc,Brazil,Food & Beverage,45439514.27,2023-10-23
+ACC1201,Jimenez Ltd,Brazil,Manufacturing,33486988.08,2022-01-11
+ACC1202,"Hill, Davenport and Baird",USA,Distribution,7649274.87,2021-10-15
+ACC1203,"Thomas, Lee and Greene",Germany,Wholesale,3463947.04,2024-04-20
+ACC1204,Shields LLC,Germany,Retail,11371353.93,2024-06-07
+ACC1205,Morgan-French,Japan,Retail,38300255.69,2021-11-27
+ACC1206,Campbell LLC,Germany,Retail,37848481.35,2024-10-04
+ACC1207,"Duarte, Burns and Hernandez",Germany,Retail,41910634.83,2023-04-06
+ACC1208,Cook-Hines,Germany,Food & Beverage,37702188.79,2022-06-16
+ACC1209,Kane-Pollard,USA,Retail,11986886.12,2021-10-06
+ACC1210,Hall-Rowe,USA,Food & Beverage,37957427.0,2020-10-14
+ACC1211,"Kennedy, Mcintyre and James",Canada,Wholesale,42122213.47,2025-07-06
+ACC1212,"Pollard, Simpson and Johnson",Brazil,Wholesale,12688702.15,2023-01-30
+ACC1213,"Rivera, Garcia and Kirk",Germany,Food & Beverage,28634509.51,2021-01-25
+ACC1214,Smith-Thomas,Canada,Distribution,35273783.59,2024-12-04
+ACC1215,Jones LLC,Japan,Wholesale,30688741.94,2022-04-06
+ACC1216,"Sanders, Miller and Murphy",Australia,Food & Beverage,39111802.42,2023-12-11
+ACC1217,"James, Stewart and Higgins",Canada,Retail,6296838.73,2024-05-14
+ACC1218,"Johnson, Jones and Welch",USA,Retail,29214039.69,2025-03-05
+ACC1219,Francis Group,Germany,Distribution,47132059.33,2025-06-18
+ACC1220,"Padilla, Garcia and Jackson",Canada,Food & Beverage,30012795.2,2022-01-25
+ACC1221,Williams Inc,Australia,Wholesale,5993163.97,2022-01-13
+ACC1222,Jordan-Sanchez,Japan,Manufacturing,40470870.22,2022-08-18
+ACC1223,"Sparks, Jackson and Miller",Brazil,Food & Beverage,18012984.5,2024-12-04
+ACC1224,"Vega, Jimenez and Aguilar",Germany,Retail,4378880.09,2021-09-24
+ACC1225,"King, Scott and Smith",Australia,Retail,1619955.36,2024-08-05
+ACC1226,Byrd-Moore,Germany,Distribution,6171404.66,2022-10-12
+ACC1227,Huerta-Evans,Japan,Distribution,35658123.54,2025-05-19
+ACC1228,"Wright, Bruce and Gonzalez",Germany,Wholesale,36955969.9,2022-06-29
+ACC1229,Rodriguez-James,Australia,Retail,31179705.35,2022-05-13
+ACC1230,Haney-Phillips,Brazil,Distribution,23778814.81,2025-06-17
+ACC1231,"Foster, Smith and Grimes",Australia,Manufacturing,14151381.36,2024-06-17
+ACC1232,Lozano Ltd,Canada,Food & Beverage,14667484.21,2023-01-20
+ACC1233,Parsons-Hall,Germany,Wholesale,37773337.81,2024-07-31
+ACC1234,Fields PLC,Brazil,Manufacturing,33741235.05,2021-10-27
+ACC1235,"Saunders, Becker and Taylor",Japan,Food & Beverage,25221018.68,2021-01-20
+ACC1236,"Lucas, Parker and Alexander",Japan,Wholesale,24889946.69,2023-06-20
+ACC1237,"Anderson, Browning and Murphy",Japan,Retail,17676603.32,2022-08-25
+ACC1238,Anderson PLC,Brazil,Retail,28233760.37,2024-12-14
+ACC1239,Schmidt-Mcintyre,Brazil,Wholesale,5195035.14,2024-09-21
+ACC1240,Sloan-Raymond,Australia,Distribution,24940314.5,2025-05-29
+ACC1241,Francis-Morgan,Canada,Distribution,32649242.09,2021-02-22
+ACC1242,Taylor and Sons,Germany,Distribution,39853710.54,2024-11-14
+ACC1243,"Craig, Sanders and Singleton",USA,Retail,11858223.62,2023-05-11
+ACC1244,Gibbs Inc,Australia,Wholesale,16004095.48,2021-11-22
+ACC1245,Gibson Ltd,Brazil,Retail,24189763.95,2024-04-25
+ACC1246,Richards-Carson,Brazil,Retail,21849686.82,2025-04-09
+ACC1247,Leonard Group,Australia,Manufacturing,17208773.56,2020-09-10
+ACC1248,"Murphy, Bishop and Holland",Australia,Distribution,14274904.92,2023-09-30
+ACC1249,Blankenship-Turner,Japan,Wholesale,6912138.35,2022-08-11
+ACC1250,Williams Inc,Canada,Retail,6858182.32,2022-02-03
+ACC1251,Wilson-Young,Brazil,Wholesale,10385507.68,2023-04-05
+ACC1252,Chavez-Santiago,Australia,Distribution,14548481.72,2024-04-14
+ACC1253,"Barnes, Newton and Moore",Brazil,Manufacturing,30242746.29,2022-08-23
+ACC1254,Bass PLC,USA,Wholesale,15516076.7,2022-08-11
+ACC1255,Johnson-Wood,Japan,Wholesale,15811111.85,2022-10-15
+ACC1256,Foley Inc,Australia,Manufacturing,7202565.03,2025-06-23
+ACC1257,Stephens-Levine,USA,Food & Beverage,28114589.37,2022-05-13
+ACC1258,Hill-Donaldson,Australia,Wholesale,32255613.1,2025-04-25
+ACC1259,Davis-Lewis,Germany,Food & Beverage,43763267.01,2023-10-08
+ACC1260,Williams LLC,Brazil,Retail,24000450.3,2021-10-15
+ACC1261,Buchanan and Sons,Germany,Retail,10033819.85,2020-11-29
+ACC1262,"Clark, Robinson and Kane",USA,Retail,47112116.24,2022-03-19
+ACC1263,Kramer PLC,Germany,Food & Beverage,41283666.62,2020-08-01
+ACC1264,Huerta PLC,Germany,Distribution,4630026.34,2021-10-27
+ACC1265,Rodriguez Inc,Australia,Food & Beverage,8434623.34,2021-03-24
+ACC1266,Tyler-Young,Brazil,Retail,5173864.51,2022-03-10
+ACC1267,Baker and Sons,Canada,Food & Beverage,28345578.7,2024-04-12
+ACC1268,"Wilson, Brown and West",Germany,Manufacturing,30210215.43,2022-05-19
+ACC1269,"Rodriguez, Gordon and Dougherty",Brazil,Wholesale,39008983.45,2020-10-14
+ACC1270,"Boyd, Ellis and Maynard",Germany,Distribution,45516714.5,2020-11-15
+ACC1271,Boone-Simmons,Japan,Manufacturing,49511531.76,2021-02-09
+ACC1272,"Browning, Jones and Miller",Japan,Manufacturing,31430338.73,2023-08-12
+ACC1273,Martinez PLC,Brazil,Food & Beverage,47431919.82,2023-09-26
+ACC1274,"Joseph, James and Harper",Canada,Wholesale,13967660.14,2022-01-16
+ACC1275,"Jacobs, Garcia and Miles",USA,Wholesale,12753393.71,2024-11-01
+ACC1276,"Rich, Arnold and Glenn",Brazil,Food & Beverage,8670098.16,2022-09-20
+ACC1277,Gutierrez Group,Germany,Distribution,34779185.65,2022-07-25
+ACC1278,"Davis, Simmons and Ortega",Germany,Retail,2599352.91,2022-06-10
+ACC1279,Mcdaniel Group,Japan,Retail,35446390.35,2020-11-26
+ACC1280,Davis Inc,Germany,Food & Beverage,34681861.08,2024-04-17
+ACC1281,Cain-Hawkins,Japan,Manufacturing,33397969.1,2023-07-03
+ACC1282,"Hoffman, Santiago and Jenkins",Canada,Distribution,6624038.82,2024-12-09
+ACC1283,Parrish-Griffith,Canada,Wholesale,45512160.82,2025-05-31
+ACC1284,"Edwards, Garcia and Romero",Canada,Food & Beverage,3922263.94,2021-05-05
+ACC1285,Walker-Rodriguez,Japan,Manufacturing,37698928.38,2024-10-18
+ACC1286,Wilson-Ramirez,Brazil,Retail,22518518.99,2021-09-13
+ACC1287,Bruce-Villegas,Germany,Retail,35286950.56,2024-08-30
+ACC1288,"Leonard, Hawkins and Lynch",Japan,Manufacturing,27459096.57,2023-11-10
+ACC1289,"Adams, White and Park",Germany,Food & Beverage,30303796.44,2022-02-11
+ACC1290,Bell-White,Germany,Retail,30581968.41,2021-04-14
+ACC1291,"Morales, Thomas and Schultz",USA,Food & Beverage,12217296.37,2020-09-21
+ACC1292,"Moreno, Bennett and Chavez",Australia,Manufacturing,29769023.65,2021-05-10
+ACC1293,Griffith-Frank,USA,Retail,29236102.25,2023-05-29
+ACC1294,Ware and Sons,Canada,Distribution,26429228.21,2021-05-10
+ACC1295,"Williams, Miller and Ramos",Germany,Retail,9892968.21,2022-09-09
+ACC1296,"Ramos, Nelson and Fischer",Brazil,Distribution,32104451.25,2021-02-19
+ACC1297,Rodriguez-Gregory,Germany,Food & Beverage,24030509.35,2023-07-15
+ACC1298,"Estrada, Williams and Foster",Germany,Retail,16731854.54,2023-07-26
+ACC1299,Harris and Sons,USA,Wholesale,17160379.52,2024-05-28
+ACC1300,Roberts-Wilson,Australia,Distribution,15122671.97,2023-01-21
+ACC1301,Thompson-James,Germany,Manufacturing,2798159.39,2024-02-02
+ACC1302,"Hansen, Barnett and Gomez",USA,Retail,13367543.7,2022-07-22
+ACC1303,"Williams, Smith and Morse",USA,Distribution,43380618.62,2024-11-18
+ACC1304,"Patterson, Sullivan and Bowman",USA,Manufacturing,23636840.9,2022-01-06
+ACC1305,Smith-Nguyen,USA,Wholesale,26403530.23,2024-07-30
+ACC1306,"Stevens, Norris and Cox",Brazil,Distribution,31645028.37,2022-10-02
+ACC1307,Sanchez PLC,USA,Wholesale,14085755.68,2022-07-28
+ACC1308,Foster LLC,Canada,Retail,22467688.66,2024-04-19
+ACC1309,Cook and Sons,Australia,Distribution,6949878.08,2020-12-13
+ACC1310,"Wilson, Hicks and Bullock",Australia,Manufacturing,40166372.93,2022-04-26
+ACC1311,"Mullen, Brewer and Hernandez",Australia,Wholesale,16226756.78,2021-01-30
+ACC1312,Gonzalez-Morrison,USA,Manufacturing,20991543.68,2024-05-15
+ACC1313,"Jones, Bean and Burton",Canada,Food & Beverage,23610946.81,2022-11-21
+ACC1314,"Wolf, Cole and Glass",USA,Wholesale,25420399.73,2023-05-24
+ACC1315,"Downs, Morris and Maddox",Australia,Retail,25934728.74,2022-02-24
+ACC1316,Jones-Ramos,Japan,Distribution,41901473.33,2022-01-31
+ACC1317,Vargas-Bell,Germany,Wholesale,23382537.16,2020-12-09
+ACC1318,Hayes-Brown,Canada,Distribution,10339908.18,2024-09-23
+ACC1319,Newman Inc,Brazil,Manufacturing,37568334.73,2023-08-24
+ACC1320,"Cruz, Carpenter and Best",Canada,Food & Beverage,14536122.74,2024-04-07
+ACC1321,Cole PLC,Germany,Retail,46778171.29,2023-10-30
+ACC1322,Jacobs-Mason,Brazil,Retail,41206924.19,2025-05-11
+ACC1323,Garcia-Nolan,Japan,Retail,42036320.21,2022-04-15
+ACC1324,"Miller, Lucas and Williams",Brazil,Distribution,43397769.14,2024-02-09
+ACC1325,Warren-Bishop,Germany,Manufacturing,24732727.89,2022-05-22
+ACC1326,Hughes-Schroeder,Japan,Manufacturing,38380761.2,2023-12-19
+ACC1327,Mccormick Ltd,Germany,Distribution,46709760.53,2022-03-30
+ACC1328,Davis-Gregory,Canada,Wholesale,29018084.46,2021-12-28
+ACC1329,"York, Brandt and Morrison",Canada,Distribution,3138717.66,2021-04-27
+ACC1330,Aguilar and Sons,Australia,Distribution,35556166.17,2025-02-25
+ACC1331,Ponce-Hale,Germany,Distribution,49432286.1,2022-07-13
+ACC1332,"Fletcher, Miller and Hansen",Australia,Wholesale,25271103.83,2023-10-15
+ACC1333,Li-Santiago,USA,Wholesale,25612266.36,2024-09-18
+ACC1334,"Osborn, Gaines and Davis",Brazil,Retail,43615315.35,2023-12-03
+ACC1335,"Cox, Cox and White",Germany,Food & Beverage,26771603.25,2021-08-22
+ACC1336,Lee-Cooke,Germany,Food & Beverage,36399747.55,2021-05-06
+ACC1337,Richard-Garcia,Germany,Wholesale,4666584.16,2024-06-04
+ACC1338,"Stephenson, Johnson and Rogers",Japan,Retail,31539710.63,2024-05-27
+ACC1339,Harper and Sons,Germany,Food & Beverage,42736499.33,2021-05-19
+ACC1340,"Wise, Lamb and Martin",Australia,Manufacturing,19620460.48,2022-10-04
+ACC1341,Diaz-Ball,Japan,Distribution,43746767.85,2025-06-02
+ACC1342,"Mitchell, Goodman and Cole",USA,Manufacturing,4352616.61,2023-03-29
+ACC1343,Sheppard-Mueller,Australia,Retail,49873870.22,2025-02-02
+ACC1344,Richardson PLC,Australia,Food & Beverage,22264602.12,2025-06-29
+ACC1345,Hammond-Strickland,USA,Food & Beverage,22740249.03,2023-01-31
+ACC1346,Burch-Montoya,Australia,Retail,45267779.04,2024-07-29
+ACC1347,Salas Inc,USA,Retail,40011029.79,2023-10-11
+ACC1348,Spencer-Garcia,Japan,Retail,19367213.4,2024-10-19
+ACC1349,Mitchell and Sons,Canada,Wholesale,27027149.59,2021-12-07
+ACC1350,"Hernandez, Kim and Potts",Brazil,Wholesale,9329198.8,2021-09-05
+ACC1351,Wilkerson-Arias,USA,Manufacturing,43671140.33,2022-08-24
+ACC1352,Shaw-Young,Brazil,Wholesale,25385695.37,2025-07-17
+ACC1353,Walker-Flores,Brazil,Wholesale,12377233.77,2021-01-24
+ACC1354,"Santos, Moody and Taylor",Australia,Retail,23518954.46,2022-01-02
+ACC1355,Horton-Taylor,Australia,Food & Beverage,45046518.05,2024-02-06
+ACC1356,Gilbert-Bullock,Germany,Retail,34202933.4,2020-08-30
+ACC1357,Conley PLC,Canada,Food & Beverage,22644759.4,2025-04-09
+ACC1358,"Rose, Rodriguez and Roberts",Japan,Manufacturing,15658558.21,2022-01-28
+ACC1359,Allen Ltd,Germany,Retail,23384954.82,2024-07-16
+ACC1360,Brown-Copeland,Japan,Wholesale,49969304.71,2023-01-26
+ACC1361,"Smith, Robertson and Allen",Germany,Food & Beverage,12623079.39,2021-04-15
+ACC1362,Smith-Gomez,Brazil,Retail,29165784.58,2023-06-04
+ACC1363,Beck Inc,Australia,Retail,2075040.3,2023-03-10
+ACC1364,Jones-Fox,Australia,Distribution,14449538.63,2023-02-08
+ACC1365,"Spencer, Myers and Harrison",Brazil,Food & Beverage,45620230.73,2023-10-01
+ACC1366,King-Smith,Australia,Distribution,41809106.08,2024-07-06
+ACC1367,Allen-Sandoval,Japan,Wholesale,30746184.91,2021-02-01
+ACC1368,"Moss, Cook and Williams",Japan,Wholesale,32194276.02,2023-04-20
+ACC1369,"Thompson, Maxwell and Marshall",Brazil,Retail,34210458.47,2024-01-18
+ACC1370,"White, Taylor and Baldwin",Australia,Wholesale,31784157.08,2025-04-15
+ACC1371,Carter Inc,Australia,Food & Beverage,16137711.31,2024-07-11
+ACC1372,Stewart LLC,Germany,Food & Beverage,29399116.46,2023-02-23
+ACC1373,"Kennedy, Johnson and Lucas",Australia,Wholesale,5416535.41,2021-12-31
+ACC1374,Glenn LLC,Japan,Retail,37626562.38,2021-12-08
+ACC1375,Kim-Ross,Canada,Wholesale,7475830.09,2022-10-08
+ACC1376,Morgan-Lopez,Brazil,Retail,27011766.31,2024-01-12
+ACC1377,Glass-Stone,Japan,Wholesale,13591534.14,2024-07-29
+ACC1378,"Coleman, Jordan and Carney",Germany,Retail,37581408.19,2021-06-21
+ACC1379,Morris-Miller,Japan,Food & Beverage,23948238.05,2023-11-16
+ACC1380,Griffin-Robbins,USA,Wholesale,37953423.16,2021-05-27
+ACC1381,Bell-Williams,Canada,Distribution,48396217.62,2024-12-02
+ACC1382,Mendez-Graham,Brazil,Retail,5424840.9,2023-10-08
+ACC1383,Jones Ltd,Germany,Food & Beverage,13958470.34,2022-08-08
+ACC1384,"Owen, Shelton and Cisneros",USA,Distribution,19060697.27,2021-04-13
+ACC1385,"Gregory, Kim and Martinez",Australia,Retail,29643444.49,2021-10-01
+ACC1386,"Diaz, Reyes and Bradley",Australia,Retail,6308959.01,2023-08-06
+ACC1387,"Cole, Watson and Wallace",Canada,Distribution,2226207.83,2020-12-14
+ACC1388,Moreno Group,Brazil,Retail,45847539.53,2022-02-21
+ACC1389,Wright-Wilson,Canada,Food & Beverage,32134792.2,2024-04-01
+ACC1390,Holmes-Mcintyre,Germany,Retail,32812732.87,2021-02-27
+ACC1391,Padilla-Lewis,USA,Wholesale,3221993.74,2023-08-18
+ACC1392,"Hendricks, Henry and Martinez",USA,Retail,49800441.36,2024-11-01
+ACC1393,Thompson-Reeves,USA,Food & Beverage,12505201.59,2025-07-22
+ACC1394,"Ponce, Downs and Contreras",Brazil,Wholesale,20043645.73,2024-02-13
+ACC1395,"Daniels, Vance and York",Japan,Manufacturing,21537210.92,2024-02-17
+ACC1396,"Little, Leon and Hicks",Australia,Wholesale,44385275.41,2021-03-05
+ACC1397,Conner and Sons,Australia,Food & Beverage,41850961.08,2024-07-10
+ACC1398,Ward PLC,Brazil,Distribution,47013600.22,2022-06-01
+ACC1399,"Anderson, Henson and Jones",Japan,Food & Beverage,34823752.52,2022-07-24
+ACC1400,"Higgins, Fox and Hammond",Canada,Distribution,22790097.13,2024-09-08
+ACC1401,Martinez LLC,Canada,Retail,5868376.61,2023-10-13
+ACC1402,Owens-Holmes,Australia,Retail,27678827.21,2021-03-18
+ACC1403,"Bowman, White and Burch",Australia,Retail,3966954.37,2022-09-25
+ACC1404,Guerra PLC,Japan,Wholesale,48442136.92,2021-05-02
+ACC1405,Martin Ltd,Germany,Food & Beverage,33475668.17,2021-09-11
+ACC1406,"Jacobson, Singleton and King",Australia,Manufacturing,48583572.29,2023-09-30
+ACC1407,"Hill, Weber and Mendez",USA,Retail,12934875.96,2021-01-13
+ACC1408,"Jackson, David and Moore",Canada,Manufacturing,11055073.18,2023-11-12
+ACC1409,"Winters, Morgan and Bradshaw",Brazil,Wholesale,29732771.1,2020-10-10
+ACC1410,Miller Ltd,Canada,Retail,38944060.31,2024-06-04
+ACC1411,Curtis-Wang,Brazil,Food & Beverage,14586467.45,2022-08-27
+ACC1412,"Johnson, Small and Gardner",Canada,Wholesale,27470557.39,2023-10-12
+ACC1413,Webb-Ballard,Canada,Food & Beverage,33391824.49,2023-12-30
+ACC1414,Chavez-Barker,USA,Wholesale,1728156.03,2021-05-11
+ACC1415,Washington-Harris,Canada,Manufacturing,16864801.64,2023-08-09
+ACC1416,Hensley-Flores,Canada,Retail,3567551.88,2025-07-06
+ACC1417,Hester-Anderson,Australia,Distribution,26778190.8,2022-06-03
+ACC1418,"Rodriguez, Allen and Martinez",Australia,Food & Beverage,24336052.31,2022-10-26
+ACC1419,Davis LLC,Japan,Manufacturing,30089634.88,2025-04-19
+ACC1420,"Barnes, Estes and Barrera",Germany,Manufacturing,11855938.06,2024-08-21
+ACC1421,"Griffith, Lee and Moore",Brazil,Food & Beverage,36634906.86,2025-07-20
+ACC1422,Jimenez-Parker,Australia,Manufacturing,15779886.12,2020-09-07
+ACC1423,Wagner-Levy,Australia,Food & Beverage,3980444.97,2021-08-24
+ACC1424,Williams-Campbell,Germany,Distribution,21887407.34,2023-07-23
+ACC1425,"Chambers, Mitchell and Smith",USA,Distribution,35907664.43,2021-02-08
+ACC1426,Khan Ltd,Germany,Food & Beverage,45064071.49,2022-05-26
+ACC1427,Diaz-Morales,Japan,Manufacturing,8268357.46,2023-06-03
+ACC1428,Cox LLC,Canada,Retail,31591557.22,2020-12-08
+ACC1429,"Cole, Pierce and Bryan",Brazil,Manufacturing,35895487.02,2023-09-08
+ACC1430,"Wilson, Hester and Long",Germany,Manufacturing,26997285.03,2024-07-18
+ACC1431,Grant-Diaz,Germany,Manufacturing,30665912.79,2021-04-16
+ACC1432,"Hicks, Porter and Williams",USA,Food & Beverage,42786844.13,2021-04-03
+ACC1433,Brock-Stone,Australia,Manufacturing,36321155.92,2021-04-25
+ACC1434,"Taylor, Velazquez and Flores",Canada,Distribution,23126190.88,2022-07-14
+ACC1435,"Stevenson, Evans and Rogers",Canada,Distribution,17607649.32,2024-09-17
+ACC1436,"Burns, Hart and Wells",Germany,Distribution,21383492.86,2020-08-26
+ACC1437,Nunez-Whitney,USA,Retail,21911436.31,2023-06-28
+ACC1438,"Wiggins, Soto and Carlson",Australia,Retail,19340750.15,2021-11-24
+ACC1439,"Patton, Parsons and Lane",Canada,Distribution,4289532.1,2024-03-05
+ACC1440,"Castillo, Warren and Griffith",USA,Food & Beverage,22161949.41,2024-06-11
+ACC1441,Hernandez-Becker,Australia,Retail,40776694.98,2020-09-22
+ACC1442,"Rodriguez, Smith and Edwards",Brazil,Food & Beverage,29736789.05,2021-04-29
+ACC1443,"Harris, Shaw and Carr",Brazil,Manufacturing,17152653.09,2022-12-05
+ACC1444,"Luna, Thornton and Stone",USA,Distribution,18326305.9,2023-05-17
+ACC1445,"Mendoza, Bennett and Frye",Australia,Distribution,43536515.29,2022-11-13
+ACC1446,"Peterson, Gomez and Ingram",Australia,Food & Beverage,48451532.64,2024-03-05
+ACC1447,"Lara, Baker and Washington",Brazil,Retail,18230663.1,2025-05-11
+ACC1448,Grant-Walker,Brazil,Manufacturing,11424201.48,2025-06-08
+ACC1449,Wise-Bush,Australia,Distribution,11987998.59,2024-01-09
+ACC1450,Stewart-Bailey,USA,Retail,42423297.51,2025-03-28
+ACC1451,"Hill, Martinez and Rhodes",Japan,Food & Beverage,38367675.96,2022-06-20
+ACC1452,Cardenas-Blevins,Brazil,Wholesale,40553847.19,2024-08-05
+ACC1453,Williams-Moses,Brazil,Manufacturing,31065090.75,2020-12-18
+ACC1454,Douglas-Burgess,Australia,Manufacturing,2286437.74,2021-08-21
+ACC1455,"Nelson, Hoffman and Nelson",Australia,Retail,2418705.87,2021-02-11
+ACC1456,"Matthews, Sanchez and Santiago",Japan,Retail,46155338.53,2023-03-24
+ACC1457,"Hall, Garcia and Rivera",Japan,Food & Beverage,9888872.35,2022-12-07
+ACC1458,"Townsend, Smith and Pierce",Canada,Manufacturing,33209887.11,2025-03-20
+ACC1459,Delgado-Gilmore,USA,Wholesale,37307483.9,2022-12-13
+ACC1460,"Gonzalez, Maynard and Morris",USA,Food & Beverage,37559476.34,2023-10-20
+ACC1461,Pearson and Sons,Canada,Distribution,21571792.19,2023-03-31
+ACC1462,"Jefferson, Johnson and Dorsey",Japan,Wholesale,19132601.53,2022-08-29
+ACC1463,Peck Inc,Australia,Retail,39064945.38,2025-07-22
+ACC1464,French-Lopez,Brazil,Manufacturing,5162894.96,2024-04-25
+ACC1465,Mcdowell-Smith,USA,Wholesale,8713084.96,2023-05-30
+ACC1466,Hebert LLC,Brazil,Food & Beverage,34024466.82,2021-12-28
+ACC1467,"Daniels, Snyder and Mays",Japan,Distribution,33434995.95,2024-10-28
+ACC1468,Nelson-Lamb,Germany,Manufacturing,22660165.15,2022-03-23
+ACC1469,"Stevens, Scott and Lopez",Japan,Wholesale,37992214.04,2024-04-02
+ACC1470,Bradley-Todd,USA,Retail,22065768.04,2021-06-12
+ACC1471,"Prince, Wilcox and Robertson",Japan,Manufacturing,24845004.91,2021-01-01
+ACC1472,"Davis, Holden and Woods",Australia,Retail,3225450.77,2025-04-01
+ACC1473,Green and Sons,Germany,Manufacturing,3684315.97,2022-10-21
+ACC1474,Finley-Turner,Canada,Retail,47320880.27,2024-03-08
+ACC1475,Green LLC,Canada,Retail,15182909.43,2024-01-13
+ACC1476,Contreras Group,USA,Food & Beverage,25371881.1,2022-02-07
+ACC1477,Parks-Leblanc,Germany,Wholesale,7330099.39,2025-01-04
+ACC1478,Vaughn-Fowler,Brazil,Wholesale,25512854.98,2025-04-10
+ACC1479,Mendez-Robinson,Australia,Retail,4531699.33,2021-03-28
+ACC1480,Gibson PLC,Australia,Food & Beverage,22374760.18,2022-06-09
+ACC1481,"Dunn, Ruiz and Medina",Germany,Food & Beverage,43243390.67,2023-11-22
+ACC1482,Gill Ltd,Brazil,Distribution,29096584.36,2024-05-05
+ACC1483,Fox PLC,Australia,Distribution,15186245.07,2024-02-02
+ACC1484,Stark Inc,Germany,Food & Beverage,48343784.86,2020-11-16
+ACC1485,"Leach, Harris and Herrera",Canada,Manufacturing,23544748.19,2021-05-23
+ACC1486,"Ramos, Frazier and Love",Australia,Retail,5318364.18,2023-01-06
+ACC1487,"Griffin, Brown and Anderson",USA,Wholesale,22348149.82,2022-08-24
+ACC1488,"Brown, Ford and Roman",Germany,Manufacturing,4853707.29,2024-03-09
+ACC1489,Scott-Smith,Japan,Retail,11857030.89,2021-08-29
+ACC1490,Williams LLC,Canada,Food & Beverage,26013680.94,2024-01-27
+ACC1491,"Mcknight, Michael and Jones",USA,Manufacturing,25987651.05,2025-03-29
+ACC1492,Mitchell and Sons,Japan,Retail,36641576.18,2024-05-31
+ACC1493,"Good, Brewer and Fisher",Australia,Wholesale,12577173.6,2025-07-14
+ACC1494,West-Stark,Canada,Retail,10666318.34,2022-06-16
+ACC1495,Vega Ltd,Brazil,Wholesale,38250549.48,2024-12-10
+ACC1496,Valdez LLC,Australia,Food & Beverage,9680160.32,2021-02-28
+ACC1497,"Long, Anderson and Irwin",Australia,Distribution,23733700.36,2024-09-29
+ACC1498,Good Group,Brazil,Manufacturing,22996357.59,2023-12-09
+ACC1499,"Coleman, Gray and Hall",Brazil,Manufacturing,16837203.84,2022-11-15
