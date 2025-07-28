@@ -14,7 +14,7 @@ random.seed(42)
 def random_date(start, end):
     return start + timedelta(days=random.randint(0, (end - start).days))
 
-# ---- 1. Salesforce Accounts ----
+# Salesforce Accounts
 def generate_salesforce_accounts(num_accounts=500):
     industries = ['Food & Beverage', 'Wholesale', 'Retail', 'Distribution', 'Manufacturing']
     countries = ['USA', 'Canada', 'Japan', 'Germany', 'Brazil', 'Australia']
@@ -31,7 +31,7 @@ def generate_salesforce_accounts(num_accounts=500):
         })
     return pd.DataFrame(accounts)
 
-# ---- 2. Salesforce Opportunities (Orders) ----
+# Salesforce Opportunities (Orders) 
 def generate_salesforce_opportunities(accounts_df, num_opps=5000):
     stages = ['Prospecting', 'Qualification', 'Proposal', 'Negotiation', 'Closed Won', 'Closed Lost']
     opps = []
@@ -49,7 +49,7 @@ def generate_salesforce_opportunities(accounts_df, num_opps=5000):
         })
     return pd.DataFrame(opps)
 
-# ---- 3. NetSuite Products (Items) ----
+# NetSuite Products (Items) 
 def generate_netsuite_items(num_items=200):
     categories = ['Single Origin', 'Blend', 'Decaf', 'Organic', 'Specialty']
     items = []
@@ -63,7 +63,7 @@ def generate_netsuite_items(num_items=200):
         })
     return pd.DataFrame(items)
 
-# ---- 4. NetSuite Inventory ----
+# NetSuite Inventory
 def generate_netsuite_inventory(items_df, num_records=10_000):
     warehouses = ['East Coast Warehouse', 'West Coast Warehouse', 'Europe Warehouse', 'Asia Warehouse']
     inventory = []
@@ -79,13 +79,13 @@ def generate_netsuite_inventory(items_df, num_records=10_000):
         })
     return pd.DataFrame(inventory)
 
-# ---- Generate Data ----
+# Generate Data
 accounts_df = generate_salesforce_accounts()
 opportunities_df = generate_salesforce_opportunities(accounts_df)
 items_df = generate_netsuite_items()
 inventory_df = generate_netsuite_inventory(items_df)
 
-# ---- Save CSVs ----
+# Save CSVs
 accounts_df.to_csv('salesforce_accounts.csv', index=False)
 opportunities_df.to_csv('salesforce_opportunities.csv', index=False)
 items_df.to_csv('netsuite_items.csv', index=False)
