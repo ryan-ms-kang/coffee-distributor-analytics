@@ -1,4 +1,4 @@
-# Coffee Distributor Analytics Pipeline
+# Coffee Distributor Analytics Freelance work
 
 ## **Overview**
 A global coffee bean distributor (anonymized for public display) wanted to modernize its analytics by integrating **Salesforce CRM** and **NetSuite ERP** data into a single, automated pipeline.  
