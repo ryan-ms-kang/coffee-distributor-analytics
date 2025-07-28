@@ -1,3 +1,5 @@
+# To keep the original data private, generate fake data to best replicate the analysis process.
+
 import pandas as pd
 import numpy as np
 from faker import Faker
